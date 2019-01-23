@@ -1,7 +1,7 @@
 {
-  "name": "Node ejs",
+  "name": "node-ejs",
   "version": "1.0.0",
-  "description": "Node application using ejs & async await and saving data as files",
+  "description": "Node application using ejs, async await and saving data as files",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
