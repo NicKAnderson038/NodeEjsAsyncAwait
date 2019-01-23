@@ -13,7 +13,6 @@ module.exports = class Product {
     }
     
     save(){
-        // const p = path.join(rootDir, 'data', 'products.json')
         fs.readFile(pathFormatter(), (err, fileContent) => {
             let products = []
             if(!err){
